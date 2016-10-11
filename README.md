@@ -1,1 +1,5 @@
-# aufg0
+Mein erstes GIT-Repo
+====================
+
+Julian Keppeler
+==============
